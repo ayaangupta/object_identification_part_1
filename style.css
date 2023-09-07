@@ -1,0 +1,19 @@
+html, 
+body{
+    height: 100%;
+    margin: 0;
+    background-image: linear-gradient(to right top, #f13350, #d9253d, #c11848, #aa0a37, #94000a)
+}
+.button {
+    width: 80%;
+    border-radius: 15px;
+}
+
+.myCanvas{
+    box-shadow: black 2px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+}
